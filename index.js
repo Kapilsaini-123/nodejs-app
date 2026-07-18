@@ -1,4 +1,3 @@
-// this is index.js
 import express from 'express';
 import bodyParser from 'body-parser';
 
